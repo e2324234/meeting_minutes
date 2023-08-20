@@ -1,1 +1,1 @@
-# meeting_minutes
+# meeting minutes generator
